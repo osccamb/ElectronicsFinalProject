@@ -1,0 +1,1 @@
+This repository contains the code used as a final project for the Electronics course of my 4th year Physics degree. The code uses Arduino to make a real time thermometer with different electronic components.
